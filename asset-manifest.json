@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eldrgeek.github.io/csb-ffscz/static/css/main.09eb07a5.chunk.css",
+    "main.js": "https://eldrgeek.github.io/csb-ffscz/static/js/main.fae31125.chunk.js",
+    "main.js.map": "https://eldrgeek.github.io/csb-ffscz/static/js/main.fae31125.chunk.js.map",
+    "runtime-main.js": "https://eldrgeek.github.io/csb-ffscz/static/js/runtime-main.7352a368.js",
+    "runtime-main.js.map": "https://eldrgeek.github.io/csb-ffscz/static/js/runtime-main.7352a368.js.map",
+    "static/js/2.9a8e0193.chunk.js": "https://eldrgeek.github.io/csb-ffscz/static/js/2.9a8e0193.chunk.js",
+    "static/js/2.9a8e0193.chunk.js.map": "https://eldrgeek.github.io/csb-ffscz/static/js/2.9a8e0193.chunk.js.map",
+    "index.html": "https://eldrgeek.github.io/csb-ffscz/index.html",
+    "static/css/main.09eb07a5.chunk.css.map": "https://eldrgeek.github.io/csb-ffscz/static/css/main.09eb07a5.chunk.css.map",
+    "static/js/2.9a8e0193.chunk.js.LICENSE.txt": "https://eldrgeek.github.io/csb-ffscz/static/js/2.9a8e0193.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7352a368.js",
+    "static/js/2.9a8e0193.chunk.js",
+    "static/css/main.09eb07a5.chunk.css",
+    "static/js/main.fae31125.chunk.js"
+  ]
+}
